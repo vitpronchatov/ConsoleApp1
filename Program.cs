@@ -15,7 +15,6 @@ namespace ConsoleApp1
             Console.WriteLine(d);
             Console.WriteLine("Переменная d имеет тип: " + d.GetType());
             Console.WriteLine("Максимальное значение типа decimal равно: ");
-            Console.WriteLine(decimal.MaxValue);
             Console.ReadKey();
         }
     }
